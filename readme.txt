@@ -1,0 +1,3 @@
+- Conteúdo foi produzido pelo Curso em Vídeo
+- Professor: Gustavo Guanabara 
+- Link do curso: https://www.cursoemvideo.com/course/python-3-mundo-3/
